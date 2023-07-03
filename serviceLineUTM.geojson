@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "serviceLineUTM",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "NOC to Works Depts" }, "geometry": { "type": "Point", "coordinates": [ 4.674386319490266, 8.490792844484492 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Works - Pharmarcy" }, "geometry": { "type": "Point", "coordinates": [ 4.675317552373445, 8.493363105774959 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Primary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.674173592646026, 8.497463042934198 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.672890535248506, 8.499289331473998 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.668514632246588, 8.499767616427933 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.664022111855863, 8.499300468844494 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.661769393527334, 8.499087720816432 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.659623819651895, 8.499175210596688 ] } },
+{ "type": "Feature", "properties": { "id": 0, "Name": "Secondary Service Point", "Type": "Junction Box", "Route": "Pharmarcy - College of health" }, "geometry": { "type": "Point", "coordinates": [ 4.67440762256183, 8.497639433027734 ] } }
+]
+}
+
+
